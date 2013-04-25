@@ -10,3 +10,6 @@
     '
     p Nokogiri.HTML(html).to_hash
     => [{:div=>{:class=>["container"], :children=>[{:p=>{:children=>[{:a=>{:href=>["http://kuroir.com"], :children=>[]}}]}}], :id=>["hello"]}}]
+
+
+Cretaed by [Mario Ricalde](http://mario.ricalde.mx/) for HTML to SCSS converter.
